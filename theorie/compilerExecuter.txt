@@ -1,0 +1,21 @@
+Compilation
+===========
+
+javac -d bin -sourcepath src -cp bin src\be\technifutur\java2020\projethello\Hello.javajavac
+   le compilateur java
+-d bin
+   le dossier ou les fichiers compilés seront palcés
+-sourcepath src
+   le dossier ou l'on trouve les fichiers .java
+-cp bin
+   le dossier ou l'on trouve les fichiers .class
+src\be\technifutur\java2020\projethello\Hello.java
+   le fichier à compilerExécution
+=========
+
+java -cp bin be.technifutur.java2020.projethello.Hellojava
+   la machine virtuelle Java
+-cp bin
+   le dossier ou se trouve les classes
+be.technifutur.java2020.projethello.Hello
+   la Classe ou se trouve la méthode main
