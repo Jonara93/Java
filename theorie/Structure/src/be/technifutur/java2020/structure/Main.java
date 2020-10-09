@@ -1,6 +1,8 @@
 package be.technifutur.java2020.structure; // correspond au nom des dossiers à partir de src --> séparé par des "."
 import java.util.Scanner;
 
+// sous fonction qui positionne directement et l'utiliser
+
 public class Main{
 	
 	public static void main(String... args){
@@ -121,6 +123,15 @@ public class Main{
 		}	
 	
 		return pRetour;
+	}
+	
+	public static Pile Position(Pile pileRetourne, int pos){
+		
+		while () {
+			
+		}
+		
+		return pileRetourne;
 	}
 	
 	
