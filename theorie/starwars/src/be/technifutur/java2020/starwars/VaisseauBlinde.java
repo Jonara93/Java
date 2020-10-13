@@ -2,127 +2,123 @@ package be.technifutur.java2020.starwars;
 
 public class VaisseauBlinde {
 
-	// champs ----------------------------------
+    // champs ----------------------------------
 
-	private String name = "Sans nom";
-	private int nbMissile;
-	private boolean estEnvol = false;
-	private boolean estAuSol = true;
-	private static int nbEnVol = 0; // démarre à 0, augmente de 1 quand un vaisseau s'envole, et diminue de 1 quand
-									// un vaisseau atterit
+    private String name = "Sans nom";
+    private int nbMissile;
+    private boolean estEnvol = false;
+    private boolean estAuSol = true;
+    private static int NbEnVolVaisseau = 0; // démarre à 0, augmente de 1 quand un vaisseau s'envole, et diminue de 1
+    // quand un vaisseau atterit
 
-	// constructeur ---------------------------
+    // constructeur ---------------------------
 
-	public VaisseauBlinde(final String name, final int nb) {
-		super(); // sera toujours en premier. Appel le constructeur de la classe ancetre.
-		this.setName(name);
-		this.addMissile(nb);
-	}
+    public VaisseauBlinde(final String name, final int nb) {
+        super(); // sera toujours en premier. Appel le constructeur de la classe ancetre.
+        this.setName(name);
+        this.addMissile(nb);
+    }
 
-	// methode ----------------------------------
+    // method ----------------------------------
 
-	// envoler
+    // tirer un missile
+    public void tirer() {
+        if (this.nbMissile <= 0) {
+            System.out.println("Pouf");
+        } else {
+            System.out.println("Pan");
+            this.nbMissile--;
+        }
+    }
 
-	// atterir
+    // ajouter des missiles
 
-	// tirer un missile
-	public void tirer() {
+    public void addMissile(final int nb) {
+        if (nb > 0) {
+            if (nb + this.nbMissile > 20) {
+                this.nbMissile = 20;
+            } else {
+                this.nbMissile += nb;
+            }
+        }
+    }
 
-		if (this.nbMissile <= 0) {
-			System.out.println("Pouf");
-		} else {
-			System.out.println("Pan");
-			this.nbMissile--;
-		}
-	}
+    // décoler
 
-	// ajouter des missiles
+    public void decoller() {
+        if (this.estAuSol) {
+            System.out.println("Je m'envole !!");
+            this.setEstAuSol(false);
+            this.setEstEnvol(true);
+            NbEnVolVaisseau++;
+        } else {
+            System.out.println("Je suis déjà en vol !!");
+        }
+    }
 
-	public void addMissile(final int nb) {
-		if (nb > 0) {
-			if (nb + this.nbMissile > 20) {
-				this.nbMissile = 20;
-			} else {
-				this.nbMissile += nb;
-			}
-		}
-	}
+    // atterir
 
-	// décoler
+    public void atterir() {
+        if (this.estEnvol) {
+            System.out.println("Je me pose au sol !!");
+            this.setEstEnvol(false);
+            this.setEstAuSol(true);
+            NbEnVolVaisseau--;
+        } else {
+            System.out.println("Je suis déjà au sol !!");
+        }
+    }
 
-	public void decoller() {
-		if (this.estAuSol) {
-			System.out.println("Je m'envole !!");
-			this.setEstAuSol(false);
-			this.setEstEnvol(true);
-			nbEnVol++;
-		} else {
-			System.out.println("Je suis déjà en vol !!");
-		}
-	}
+    // setter(donner) getter(recevoir) ----------------------------
 
-	// atterir
 
-	public void atterir() {
-		if (this.estEnvol) {
-			System.out.println("Je me pose au sol !!");
-			this.setEstEnvol(false);
-			this.setEstAuSol(true);
-			nbEnVol--;
+    //setter/getter nbMissile
 
-		} else {
-			System.out.println("Je suis déjà au sol !!");
-		}
-	}
+    public int getNbMissile() {
 
-	// setter(donner) getter(recevoir) ----------------------------
+        return this.nbMissile;
+    }
 
-	public int getNbMissile() {
-		return this.nbMissile;
-	}
+    // setter and getter Name
 
-	// setter and getter Name
+    public void setName(final String name) {
+        if (name != null && name.length() > 0) {
+            this.name = name;
+        }
+    }
 
-	public void setName(final String name) {
-		if (name != null && name.length() > 0) {
-			this.name = name;
-		}
-	}
+    public String getName() {
+        return this.name;
+    }
 
-	public String getName() {
-		return this.name;
-	}
+    // setter and getter estenvol
 
-	// setter and getter estenvol
+    public void setEstEnvol(final boolean bool) {
+        this.estEnvol = bool;
+    }
 
-	public void setEstEnvol(final boolean bool) {
-		this.estEnvol = bool;
-	}
+    public boolean getEstEnvole() {
+        return this.estEnvol;
+    }
 
-	public boolean getEstEnvole() {
+    // setter and getter estausol
 
-		return this.estEnvol;
-	}
+    public void setEstAuSol(final boolean bool) {
+        this.estAuSol = bool;
+    }
 
-	// setter and getter estausol
+    public boolean getEstAuSol() {
+        return this.estAuSol;
+    }
 
-	public void setEstAuSol(final boolean bool) {
-		this.estAuSol = bool;
-	}
+    // getter and setter nbenvol
 
-	public boolean getEstAuSol() {
+    public static void setNbEnVolVaisseau(int nb) {
+        NbEnVolVaisseau += nb;
+    }
 
-		return this.estAuSol;
-	}
-
-	// getter and setter nbenvol
-
-	public static void setNbEnVol(int nb) {
-		nbEnVol += nb;
-	}
-
-	public static int getNbEnVol() {
-		return nbEnVol;
-	}
+    public static int getNbEnVolVaisseau() {
+        return NbEnVolVaisseau;
+    }
 
 }
