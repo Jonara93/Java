@@ -14,7 +14,7 @@ public class VaisseauBlinde {
 	// constructeur ---------------------------
 
 	public VaisseauBlinde(final String name, final int nb) {
-		super(); // sera toujours en premier. Appel le constructeur de la classe de l'ancetre.
+		super(); // sera toujours en premier. Appel le constructeur de la classe ancetre.
 		this.setName(name);
 		this.addMissile(nb);
 	}
