@@ -26,9 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43ca955b-9b75-47e9-b0be-111c8357e6e0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/BlackStar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/BlackStar.class" afterDir="false" />
+    <list default="true" id="43ca955b-9b75-47e9-b0be-111c8357e6e0" name="Default Changelist" comment="temps de midi">
       <change beforePath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/BlackStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/BlackStar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,6 +92,14 @@
       <option name="presentableId" value="Default" />
       <updated>1602576126279</updated>
     </task>
+    <task id="LOCAL-00001" summary="temps de midi">
+      <created>1602586626925</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602586626925</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +126,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="temps de midi" />
+    <option name="LAST_COMMIT_MESSAGE" value="temps de midi" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="413" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602576690765">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -137,22 +147,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="634" y="236" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602576777378" />
-    <state width="1921" height="984" key="GridCell.Tab.0.bottom" timestamp="1602585907989">
+    <state width="1921" height="984" key="GridCell.Tab.0.bottom" timestamp="1602586687539">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="984" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602585907989" />
-    <state width="1921" height="984" key="GridCell.Tab.0.center" timestamp="1602585907989">
+    <state width="1921" height="984" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602586687539" />
+    <state width="1921" height="984" key="GridCell.Tab.0.center" timestamp="1602586687539">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="984" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602585907989" />
-    <state width="1921" height="984" key="GridCell.Tab.0.left" timestamp="1602585907989">
+    <state width="1921" height="984" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602586687539" />
+    <state width="1921" height="984" key="GridCell.Tab.0.left" timestamp="1602586687539">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="984" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602585907989" />
-    <state width="1921" height="984" key="GridCell.Tab.0.right" timestamp="1602585907989">
+    <state width="1921" height="984" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602586687539" />
+    <state width="1921" height="984" key="GridCell.Tab.0.right" timestamp="1602586687539">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="984" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602585907989" />
+    <state width="1921" height="984" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602586687539" />
     <state x="420" y="110" key="SettingsEditor" timestamp="1602584026373">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
