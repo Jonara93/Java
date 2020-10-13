@@ -29,14 +29,7 @@
     <list default="true" id="43ca955b-9b75-47e9-b0be-111c8357e6e0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/BlackStar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/BlackStar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/Millenium.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/Millenium.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/Scenario3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/Scenario3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/XWing.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/XWing.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/BlackStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/BlackStar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Millenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Millenium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Scenario3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Scenario3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/XWing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/XWing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,22 +137,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="634" y="236" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602576777378" />
-    <state width="1921" height="984" key="GridCell.Tab.0.bottom" timestamp="1602585811346">
+    <state width="1921" height="984" key="GridCell.Tab.0.bottom" timestamp="1602585907989">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="984" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602585811346" />
-    <state width="1921" height="984" key="GridCell.Tab.0.center" timestamp="1602585811346">
+    <state width="1921" height="984" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602585907989" />
+    <state width="1921" height="984" key="GridCell.Tab.0.center" timestamp="1602585907989">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="984" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602585811346" />
-    <state width="1921" height="984" key="GridCell.Tab.0.left" timestamp="1602585811346">
+    <state width="1921" height="984" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602585907989" />
+    <state width="1921" height="984" key="GridCell.Tab.0.left" timestamp="1602585907989">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="984" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602585811346" />
-    <state width="1921" height="984" key="GridCell.Tab.0.right" timestamp="1602585811346">
+    <state width="1921" height="984" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602585907989" />
+    <state width="1921" height="984" key="GridCell.Tab.0.right" timestamp="1602585907989">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="984" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602585811346" />
+    <state width="1921" height="984" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602585907989" />
     <state x="420" y="110" key="SettingsEditor" timestamp="1602584026373">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

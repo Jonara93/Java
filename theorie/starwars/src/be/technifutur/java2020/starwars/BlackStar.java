@@ -3,9 +3,17 @@ package be.technifutur.java2020.starwars;
 public class BlackStar {
 
     public void attract(AbstractVaisseau v) {
-        System.out.println("Vaisseau attirer");
-        v.afficheCamp();
-        v.decoller();
+        if (v instanceof Millenium) { //instanceof vérifie le type du contenu
+            this.attract((Millenium) v);
+        } else {
+            if (v instanceof XWing) {
+                this.attract((XWing) v);
+            } else {
+                System.out.println("Vaisseau attirer");
+                v.afficheCamp();
+                v.decoller();
+            }
+        }
     }
 
     public void attract(Millenium v) {
