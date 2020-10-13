@@ -13,9 +13,13 @@ public class Scenario3 extends Scenario {
         BlackStar bs = new BlackStar();
         Millenium millenium = new Millenium();
         XWing x1 = new XWing();
+        AbstractVaisseau av1 = new Millenium();
 
         bs.attract(millenium);
-        //bs.attrac(x1);
+        System.out.println();
+        bs.attract(x1);
+        System.out.println();
+        bs.attract(av1);
 
     }
 }
