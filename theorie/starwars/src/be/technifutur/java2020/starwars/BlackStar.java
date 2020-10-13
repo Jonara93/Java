@@ -32,5 +32,3 @@ public class BlackStar {
 
 
 }//end BS
-
-//test commit + push

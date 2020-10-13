@@ -3,7 +3,6 @@ package be.technifutur.java2020.starwars;
 public class VaisseauBlinde {
 
     // champs ----------------------------------
-
     private String name = "Sans nom";
     private int nbMissile;
     private boolean estEnvol = false;
@@ -13,10 +12,11 @@ public class VaisseauBlinde {
 
     // constructeur ---------------------------
 
-    public VaisseauBlinde(final String name, final int nb) {
+    public VaisseauBlinde(String name, int nb) {
         super(); // sera toujours en premier. Appel le constructeur de la classe ancetre.
         this.setName(name);
         this.addMissile(nb);
+
     }
 
     // method ----------------------------------
@@ -33,7 +33,7 @@ public class VaisseauBlinde {
 
     // ajouter des missiles
 
-    public void addMissile(final int nb) {
+    public void addMissile(int nb) {
         if (nb > 0) {
             if (nb + this.nbMissile > 20) {
                 this.nbMissile = 20;
@@ -81,7 +81,7 @@ public class VaisseauBlinde {
 
     // setter and getter Name
 
-    public void setName(final String name) {
+    public final void setName(String name) {
         if (name != null && name.length() > 0) {
             this.name = name;
         }
@@ -93,7 +93,7 @@ public class VaisseauBlinde {
 
     // setter and getter estenvol
 
-    public void setEstEnvol(final boolean bool) {
+    public void setEstEnvol(boolean bool) {
         this.estEnvol = bool;
     }
 
@@ -103,7 +103,7 @@ public class VaisseauBlinde {
 
     // setter and getter estausol
 
-    public void setEstAuSol(final boolean bool) {
+    public void setEstAuSol(boolean bool) {
         this.estAuSol = bool;
     }
 

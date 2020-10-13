@@ -6,4 +6,5 @@ public class Millenium extends AbstractVaisseau{
     public void afficheCamp() {
         System.out.println("Je suis un rebel\nA mort l'empire !");
     }
+
 }

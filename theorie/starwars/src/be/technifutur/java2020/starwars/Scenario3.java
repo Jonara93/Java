@@ -2,7 +2,6 @@ package be.technifutur.java2020.starwars;
 
 public class Scenario3 extends Scenario {
 
-
     public Scenario3(String name) {
         super(name);
     }
@@ -13,6 +12,7 @@ public class Scenario3 extends Scenario {
         BlackStar bs = new BlackStar();
         Millenium millenium = new Millenium();
         XWing x1 = new XWing();
+        //AbstractVaisseau av1 = new AbstractVaisseau();
         AbstractVaisseau av1 = new Millenium();
 
         bs.attract(millenium);

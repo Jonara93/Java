@@ -7,7 +7,8 @@ public class Main {
         Scenario[] menu = new Scenario[]{
                 new Scenario1(),
                 new Scenario2(),
-                new Scenario3("polymorphisme de l'etoile noire")//je peux aussi mettre le nom comme ceci
+                new Scenario3("polymorphisme de l'etoile noire"),//je peux aussi mettre le nom comme ceci
+                new Scenario4()
         };
         Scanner scan = new Scanner(System.in);
         String input = null;
@@ -37,3 +38,8 @@ public class Main {
 
 }
 // ctrl + atl + L = autoindent
+
+/*
+Methode virtuelle : quand la méthode est virtuelle il prend en compte le type du contenu, autrement il prend
+                    compte le type du contenant
+*/

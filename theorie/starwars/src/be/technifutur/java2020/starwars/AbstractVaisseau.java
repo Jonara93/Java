@@ -1,13 +1,11 @@
 package be.technifutur.java2020.starwars;
 
-public class AbstractVaisseau {
+public abstract class AbstractVaisseau {
 
-    public void decoller(){
+    public final void decoller(){
         System.out.println("Je décolle");
     }
 
-    public  void afficheCamp(){
-        System.out.println("Je sais pas");
-    }
+    public abstract void afficheCamp();
 
 }

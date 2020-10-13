@@ -26,8 +26,30 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43ca955b-9b75-47e9-b0be-111c8357e6e0" name="Default Changelist" comment="temps de midi">
+    <list default="true" id="43ca955b-9b75-47e9-b0be-111c8357e6e0" name="Default Changelist" comment="test">
+      <change afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Clone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Empire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Force.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Jedi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Personne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Rebelle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Scenario4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Sith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Soldat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/AbstractVaisseau.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/AbstractVaisseau.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/BlackStar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/BlackStar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/Scenario3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/Scenario3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/VaisseauBlinde.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/VaisseauBlinde.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/XWing.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/XWing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/AbstractVaisseau.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/AbstractVaisseau.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/BlackStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/BlackStar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Millenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Millenium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Scenario3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Scenario3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/VaisseauBlinde.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/VaisseauBlinde.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/XWing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/XWing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +59,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -52,11 +75,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../exercice/sudoku" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -99,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602586626925</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1602587384099</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602587384099</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,49 +158,58 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="temps de midi" />
-    <option name="LAST_COMMIT_MESSAGE" value="temps de midi" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602576690765">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="413" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602576690765" />
-    <state x="764" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1602584476781">
+    <state x="764" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1602593898989">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="764" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602584476781" />
+    <state x="764" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602593898989" />
     <state x="457" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602578456036">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="457" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602578456036" />
-    <state x="634" y="236" key="FileChooserDialogImpl" timestamp="1602576777378">
+    <state x="634" y="236" key="FileChooserDialogImpl" timestamp="1602598321327">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="634" y="236" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602576777378" />
-    <state width="1921" height="984" key="GridCell.Tab.0.bottom" timestamp="1602586687539">
+    <state x="634" y="236" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602598321327" />
+    <state width="1921" height="984" key="GridCell.Tab.0.bottom" timestamp="1602598325900">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="984" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602586687539" />
-    <state width="1921" height="984" key="GridCell.Tab.0.center" timestamp="1602586687539">
+    <state width="1921" height="984" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602598325900" />
+    <state width="1921" height="984" key="GridCell.Tab.0.center" timestamp="1602598325900">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="984" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602586687539" />
-    <state width="1921" height="984" key="GridCell.Tab.0.left" timestamp="1602586687539">
+    <state width="1921" height="984" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602598325900" />
+    <state width="1921" height="984" key="GridCell.Tab.0.left" timestamp="1602598325900">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="984" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602586687539" />
-    <state width="1921" height="984" key="GridCell.Tab.0.right" timestamp="1602586687539">
+    <state width="1921" height="984" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602598325900" />
+    <state width="1921" height="984" key="GridCell.Tab.0.right" timestamp="1602598325900">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="984" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602586687539" />
-    <state x="420" y="110" key="SettingsEditor" timestamp="1602584026373">
+    <state width="1921" height="984" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602598325900" />
+    <state x="420" y="110" key="SettingsEditor" timestamp="1602588574349">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="420" y="110" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602584026373" />
-    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602576782730">
+    <state x="420" y="110" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602588574349" />
+    <state x="551" y="251" key="Vcs.Push.Dialog.v2" timestamp="1602587406586">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602576782730" />
+    <state x="551" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602587406586" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602588488076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602588488076" />
+    <state x="776" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602588596185">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="776" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602588596185" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1602582254715">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

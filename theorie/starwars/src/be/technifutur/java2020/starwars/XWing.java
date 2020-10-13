@@ -4,6 +4,6 @@ public class XWing extends AbstractVaisseau {
 
     @Override
     public void afficheCamp() {
-        System.out.println("Je suis fidele à l'empire");
+        System.out.printf("Je suis  à l'empire");
     }
 }
