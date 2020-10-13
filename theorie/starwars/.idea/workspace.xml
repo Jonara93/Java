@@ -27,29 +27,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43ca955b-9b75-47e9-b0be-111c8357e6e0" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Clone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Empire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Force.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Jedi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Personne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Rebelle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Scenario4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Sith.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Soldat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/AbstractVaisseau.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/AbstractVaisseau.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/BlackStar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/BlackStar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/Scenario3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/Scenario3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/VaisseauBlinde.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/VaisseauBlinde.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/XWing.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/production/starwars/be/technifutur/java2020/starwars/XWing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/AbstractVaisseau.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/AbstractVaisseau.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/BlackStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/BlackStar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Millenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Millenium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Scenario3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/Scenario3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/VaisseauBlinde.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/VaisseauBlinde.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/XWing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/technifutur/java2020/starwars/XWing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercice/sudoku/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercice/sudoku/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercice/sudoku/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercice/sudoku/.idea/sudoku.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercice/sudoku/.idea/vcs.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +57,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../exercice/sudoku" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -210,6 +192,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="776" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602588596185" />
+    <state x="550" y="139" key="new project wizard" timestamp="1602598699607">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="550" y="139" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602598699607" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1602582254715">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
