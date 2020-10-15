@@ -9,7 +9,7 @@ public class Vaisseau {
 
 	// constructeur ---------------------------------
 
-	// methode -------------------------------------
+	// method -------------------------------------
 
 	// tirer un missile
 	public void tirer() {
